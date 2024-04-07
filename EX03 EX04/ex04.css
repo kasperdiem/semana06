@@ -1,0 +1,55 @@
+body {
+    background-image: url('https://img.freepik.com/free-vector/topographic-contour-lines-map-seamless-pattern_1284-52862.jpg?w=740&t=st=1710710343~exp=1710710943~hmac=8de63d3715ba34bb6296b85f9dda4b21fd6f0cd2e20dc6bb28dccb9fd4dc4376');
+    background-size: auto;
+    background-repeat: repeat;
+    font-family: "Montserrat", sans-serif;
+}
+
+
+.profile {
+    max-width: 400px;
+    margin: 50px auto;
+    background-color: #e0e0e0;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    border: 3px solid #a4a4a4;
+}
+
+.profile img {
+    max-width: 100%;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto 20px;
+}
+
+h1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    color: #333;
+}
+
+p {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+ul li {
+    font-size: 16px;
+    color: #888;
+    margin-bottom: 10px;
+}

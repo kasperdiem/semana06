@@ -1,0 +1,56 @@
+.press-start-2p-regular {
+    font-family: "Press Start 2P", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+body {
+    background-image: url('https://img.freepik.com/free-vector/topographic-contour-lines-map-seamless-pattern_1284-52862.jpg?w=740&t=st=1710710343~exp=1710710943~hmac=8de63d3715ba34bb6296b85f9dda4b21fd6f0cd2e20dc6bb28dccb9fd4dc4376');
+    background-size: auto;
+    background-repeat: repeat;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 30vh;
+    font-family: 'Press Start 2P', cursive;
+}
+
+header {
+    background-color: #141313;
+    color: #bbb0b0;
+    text-align: center;
+    display: inline-block;
+    padding: 10px 50px;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    border: 10px solid #333;
+    font-size: 18px;
+}
+
+main {
+    background-color: #141313;
+    color: #bbb0b0;
+    text-align: center;
+    display: inline-block;
+    padding: 20px 30px;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    border: 15px solid #333;
+    font-size: 14px;
+}
+
+footer {
+    background-color: #141313;
+    color: #bbb0b0;
+    text-align: center;
+    display: inline-block;
+    padding: 20px 30px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    border: 7px solid #333;
+    font-size: 10px;
+}
